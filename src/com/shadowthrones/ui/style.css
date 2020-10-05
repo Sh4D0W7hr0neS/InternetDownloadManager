@@ -1,0 +1,33 @@
+.button{
+	-fx-background-color: darkslateblue; 
+	-fx-text-fill: white; 
+	-fx-font-size: 16px;
+	-fx-background-radius: 10;
+}
+
+.button:hover{
+	-fx-opacity:0.8; 
+}
+
+.text{
+	-fx-font: normal bold 20px 'serif'; 
+	-fx-fill: white;
+	-fx-text-alignment: left;
+}
+.grid{
+	-fx-background-color: BLACK;
+}
+.text{
+	-fx-background-color: BLACK;
+}
+.header{
+	-fx-font: italic bold 40px 'serif'; 
+	-fx-fill: white;
+	-fx-text-alignment: center; 
+}
+
+.note{
+	-fx-font: normal bold 14px 'serif'; 
+	-fx-fill: white;
+	-fx-text-alignment: left;
+}
